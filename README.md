@@ -22,7 +22,7 @@ This project demonstrates the full lifecycle of a Machine Learning product: from
 > The application features a custom **"Rose Gold"** UI theme designed for a premium user experience.
 
 ### 3. Analytics Dashboard
-![Dashboard](screenshots/demo3.png)
+![Dashboard](screenshot/demo3.jpg)
 ---
 
 ## 🚀 Key Features
