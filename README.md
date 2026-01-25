@@ -17,7 +17,7 @@ This project demonstrates the full lifecycle of a Machine Learning product: from
 ![Home Screen](demo0.jpg)
 
 ### 2. Analysis Result
-![Result Screen](screenshots/demo.png) 
+![Result Screen](screenshot/demo2.jpg) 
 
 > The application features a custom **"Rose Gold"** UI theme designed for a premium user experience.
 
