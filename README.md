@@ -13,7 +13,7 @@ This project demonstrates the full lifecycle of a Machine Learning product: from
 
 ## 📸 Interface Preview
 
-![Bloom AI Demo](screenshots/demo.png)
+![Bloom AI Demo](screenshot/demo.png)
 
 
 > The application features a custom **"Rose Gold"** UI theme designed for a premium and user-friendly experience.
