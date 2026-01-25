@@ -14,7 +14,7 @@ This project demonstrates the full lifecycle of a Machine Learning product: from
 ## 📸 Interface Preview
 
 ### 1. Home & Input Screen
-![Home Screen](demo0.jpg)
+![Home Screen](screenshot/demo0.jpg)
 
 ### 2. Analysis Result
 ![Result Screen](screenshot/demo2.jpg) 
@@ -22,7 +22,7 @@ This project demonstrates the full lifecycle of a Machine Learning product: from
 > The application features a custom **"Rose Gold"** UI theme designed for a premium user experience.
 
 ### 3. Analytics Dashboard
-![Dashboard](screenshots/demo_dashboard.png)
+![Dashboard](screenshots/demo3.png)
 ---
 
 ## 🚀 Key Features
