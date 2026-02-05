@@ -24,7 +24,7 @@ st.markdown("""
     .stTabs [data-baseweb="tab-list"] { gap: 10px; }
     .stTabs [data-baseweb="tab"] { background-color: white; border-radius: 20px; color: #C75B7A; border: 1px solid #F8C8DC; }
     .stTabs [aria-selected="true"] { background-color: #C75B7A; color: white; }
-    .stTextArea textarea { background-color: white; color: black !important; caret-color: black; -webkit-text-fill-color: black !important; border: 2px solid #F8C8DC; border-radius: 15px; }
+    .stTextArea textarea { background-color: white; border: 2px solid #F8C8DC; border-radius: 15px; }
     .stTextArea textarea:focus { border-color: #C75B7A; box-shadow: 0 0 10px rgba(199,91,122,0.3); }
     div.stButton > button { background: linear-gradient(135deg, #D4889E, #C75B7A); color: white; border-radius: 50px; border:none; padding: 10px 30px; width: 100%; font-weight: bold;}
     div.stButton > button:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(199,91,122,0.4); }
@@ -88,7 +88,7 @@ def generate_demo_data():
     return df.to_csv(index=False).encode('utf-8')
 
 # --- HEADER ---
-st.markdown("<h1 style='text-align: center; color: #C75B7A;'>🌸 Bloom AI</h1>", unsafe_allow_html=True)
+st.markdown("<h1>🌸 Bloom AI</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: #B38896;'>Intelligent Sentiment Analytics for Businesses</p>", unsafe_allow_html=True)
 
 # Model kontrol uyarısı
